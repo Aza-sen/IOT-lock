@@ -1,0 +1,18 @@
+download ardiuno IDE
+ setting up the board follow the link https://youtu.be/YN522_npNqs
+prefrencess: https://dl.espressif.com/dl/package_esp32_index.json,http://arduino.esp8266.com/stable/package_esp8266com_index.json
+then board manager instal esp8266 and esp32
+if not work while uploading press restart button while uploading for firast time
+select node mcu 1.0
+install blynk library
+lockergosystem@gmail.com
+pass: Locker@1234
+
+FOR DISPLAY.
+ADAfruit gfx library
+adafruit imageReader library
+http://educ8s.tv/arduino-touch-screen-tutorial/
+navigate to Sketch > Include Library > Add . ZIP
+
+on ardiuno cloud
+image size 320*240
